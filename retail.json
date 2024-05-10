@@ -1,0 +1,254 @@
+[
+    {
+        "UPC": "11F0001416C",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Plain Milk 2 l",
+        "PRICE": "9.25"
+    },
+    {
+        "UPC": "11F0001716C",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Plain Milk 500 ml",
+        "PRICE": "5"
+    },
+    {
+        "UPC": "11F00019191",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Vanilla Yogurt 1 kg",
+        "PRICE": "12.4"
+    },
+    {
+        "UPC": "11F0001912E",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Coffee Cream 500 ml",
+        "PRICE": "6.95"
+    },
+    {
+        "UPC": "11F00016140",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Firm Cheese 2 kg",
+        "PRICE": "21.49"
+    },
+    {
+        "UPC": "11F00027137",
+        "VENDOR": "Heritage Hill Dairy",
+        "PRODUCT": "Orange Cheese Shredded 5 kg",
+        "PRICE": "48"
+    },
+    {
+        "UPC": "10F0001319A",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Tomatoes 2 kg",
+        "PRICE": "11.5"
+    },
+    {
+        "UPC": "10F0001218C",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Peaches 4 kg",
+        "PRICE": "49.99"
+    },
+    {
+        "UPC": "10F00012136",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Apples 10 kg",
+        "PRICE": "6.02"
+    },
+    {
+        "UPC": "10F00011170",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Plums 800 g",
+        "PRICE": "32"
+    },
+    {
+        "UPC": "10F00016141",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Celery 5 bunches",
+        "PRICE": "1.09"
+    },
+    {
+        "UPC": "10F00015146",
+        "VENDOR": "Albion Gardens",
+        "PRODUCT": "Onions Red 1 kg",
+        "PRICE": "6.8"
+    },
+    {
+        "UPC": "10E00010152",
+        "VENDOR": "Jacobs Farm",
+        "PRODUCT": "Basil 1 kg",
+        "PRICE": "10"
+    },
+    {
+        "UPC": "10E00012184",
+        "VENDOR": "Jacobs Farm",
+        "PRODUCT": "Oregano 1 kg",
+        "PRICE": "15"
+    },
+    {
+        "UPC": "10E0001318F",
+        "VENDOR": "Jacobs Farm",
+        "PRODUCT": "Cilantro 2 kg",
+        "PRICE": "8"
+    },
+    {
+        "UPC": "10E000131A4",
+        "VENDOR": "Jacobs Farm",
+        "PRODUCT": "Rosemary 1 kg",
+        "PRICE": "4"
+    },
+    {
+        "UPC": "10E00011142",
+        "VENDOR": "Jacobs Farm",
+        "PRODUCT": "Garlic 5 kg",
+        "PRICE": "23"
+    },
+    {
+        "UPC": "1280002218A",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Habanero Peppers 200 g",
+        "PRICE": "4.99"
+    },
+    {
+        "UPC": "1280002918F",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Carolina Reaper Peppers 200 g",
+        "PRICE": "6.99"
+    },
+    {
+        "UPC": "1280002413E",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Naga Viper Peppers 200 g",
+        "PRICE": "5.99"
+    },
+    {
+        "UPC": "1280001917A",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Ghost Peppers 200 g",
+        "PRICE": "1.99"
+    },
+    {
+        "UPC": "1280002317C",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Caribbean Peppers 200 g",
+        "PRICE": "18.99"
+    },
+    {
+        "UPC": "12800027145",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Scotch Bonnet Peppers 200 g",
+        "PRICE": "2.99"
+    },
+    {
+        "UPC": "12800019161",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Chile Peppers 200 g",
+        "PRICE": "8.99"
+    },
+    {
+        "UPC": "12800014145",
+        "VENDOR": "Tasty Greenhouses",
+        "PRODUCT": "Waiver Notepad",
+        "PRICE": "26.99"
+    },
+    {
+        "UPC": "10600018186",
+        "VENDOR": "Adams Bakery",
+        "PRODUCT": "Croissants 4 Dozen",
+        "PRICE": "42"
+    },
+    {
+        "UPC": "10600020137",
+        "VENDOR": "Adams Bakery",
+        "PRODUCT": "Dinner Rolls 5 Dozen",
+        "PRICE": "42"
+    },
+    {
+        "UPC": "10600021167",
+        "VENDOR": "Adams Bakery",
+        "PRODUCT": "White Bread 10 Loaves",
+        "PRICE": "42"
+    },
+    {
+        "UPC": "1060001619C",
+        "VENDOR": "Adams Bakery",
+        "PRODUCT": "Crumpets 8 Dozen",
+        "PRICE": "42"
+    },
+    {
+        "UPC": "11100023181",
+        "VENDOR": "Ceilidh Breweries",
+        "PRODUCT": "Tasty Ale Pint Can (12)",
+        "PRICE": "5.05"
+    },
+    {
+        "UPC": "11100022142",
+        "VENDOR": "Ceilidh Breweries",
+        "PRODUCT": "Dark Ale Pint Can (12)",
+        "PRICE": "6.05"
+    },
+    {
+        "UPC": "1110002413B",
+        "VENDOR": "Ceilidh Breweries",
+        "PRODUCT": "Bitter Ale Pint Can (12)",
+        "PRICE": "5.95"
+    },
+    {
+        "UPC": "1110002613C",
+        "VENDOR": "Ceilidh Breweries",
+        "PRODUCT": "Crispy Cider Pint Can (12)",
+        "PRICE": "7.15"
+    },
+    {
+        "UPC": "10E0002117B",
+        "VENDOR": "Diamond Estates",
+        "PRODUCT": "Red Wine Bottles (24)",
+        "PRICE": "30"
+    },
+    {
+        "UPC": "10E0002317C",
+        "VENDOR": "Diamond Estates",
+        "PRODUCT": "White Wine Bottles (24)",
+        "PRICE": "26.5"
+    },
+    {
+        "UPC": "13000014197",
+        "VENDOR": "Tomatoe Town",
+        "PRODUCT": "Ketchup 500 ml",
+        "PRICE": "99.99"
+    },
+    {
+        "UPC": "1300001819F",
+        "VENDOR": "Tomatoe Town",
+        "PRODUCT": "Marinara Sauce 2 l",
+        "PRICE": "15"
+    },
+    {
+        "UPC": "13000019146",
+        "VENDOR": "Tomatoe Town",
+        "PRODUCT": "Medium Salsa 750 ml",
+        "PRICE": "25"
+    },
+    {
+        "UPC": "13000018155",
+        "VENDOR": "Tomatoe Town",
+        "PRODUCT": "Tomato Paste 200 g",
+        "PRICE": "5.5"
+    },
+    {
+        "UPC": "12C00017185",
+        "VENDOR": "House of Soup",
+        "PRODUCT": "Chicken Stock 4 l",
+        "PRICE": "22.22"
+    },
+    {
+        "UPC": "12C0001413B",
+        "VENDOR": "House of Soup",
+        "PRODUCT": "Beef Stock 4 l",
+        "PRICE": "22.22"
+    },
+    {
+        "UPC": "12C00019188",
+        "VENDOR": "House of Soup",
+        "PRODUCT": "Flavoured Water 4 l",
+        "PRICE": "22.22"
+    }
+]
